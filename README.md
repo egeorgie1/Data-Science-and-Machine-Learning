@@ -1,2 +1,2 @@
 # Data-Science-and-Machine-Learning
-Implementations of some Data Sciene and Machine Learning algorithms
+Implementations of some Data Science and Machine Learning algorithms
